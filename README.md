@@ -9,7 +9,7 @@ cd ../validator
 yarn install
 ```
 
-## Run Project
+## Run App
 Run `start.sh` file:
 ```
 bash ./start.sh
