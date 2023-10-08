@@ -1,3 +1,16 @@
 # akirolabs-validator
 
-Please first get `frontend` and `validator` and run `yarn` commmand in order install all dependencies and finally run `bash start.sh`.
+## Install
+Navigate to `frontend` and `validator` directories and run `yarn`.
+```
+cd frontend
+yarn install
+cd ../validator
+yarn install
+```
+
+## Run Project
+Run `start.sh` file:
+```
+bash ./start.sh
+```
