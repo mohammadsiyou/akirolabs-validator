@@ -1,0 +1,31 @@
+.input {
+    padding: 0.5rem;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  .error {
+    color: red;
+  }
+  .form {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .form input[type="submit"] {
+    padding: 0.5rem;
+  }
+  
+  .list {
+    margin-top: 2rem;
+    margin-left: 1rem;
+  }
+  
+  .list li {
+    margin-top: 1rem;
+  }
+
+  .statistics{
+    margin-top: 1rem;
+  }
+  
